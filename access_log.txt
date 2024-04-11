@@ -1,0 +1,46 @@
+10/04/2024 21:09:39 GET /equipos/2 {} {"name":"Add your name in the body"} ::1
+10/04/2024 21:11:20 DELETE /equipos/4 {} {} ::1
+10/04/2024 21:12:13 POST /equipos {} {"id":3,"nombre":"liverpool","pais":"Inglaterra","liga":"Premier League","fundacion":1892,"presidente":"Tom Werner","entrenador":"Jürgen Klopp","valor_equipo_millones":980.75,"activo":true} ::1
+10/04/2024 21:13:26 POST /equipos {} {"id":3,"nombre":"","pais":"Inglaterra","liga":"Premier League","fundacion":1892,"presidente":"Tom Werner","entrenador":"Jürgen Klopp","valor_equipo_millones":980.75,"activo":true} ::1
+10/04/2024 21:13:40 PUT /equipos/3 {} {"id":3,"nombre":"","pais":"Inglaterra","liga":"Premier League","fundacion":1892,"presidente":"Tom Werner","entrenador":"Jürgen Klopp","valor_equipo_millones":980.75,"activo":true} ::1
+10/04/2024 21:13:47 PUT /equipos/3 {} {"id":3,"nombre":"liverpool","pais":"Inglaterra","liga":"Premier League","fundacion":1892,"presidente":"Tom Werner","entrenador":"Jürgen Klopp","valor_equipo_millones":980.75,"activo":true} ::1
+10/04/2024 21:15:30 GET /equipos/7 {} {"name":"Add your name in the body"} ::1
+10/04/2024 21:15:34 GET /equipos/5 {} {"name":"Add your name in the body"} ::1
+10/04/2024 21:18:32 POST /equipos {} {"id":3,"nombre":"","pais":"Inglaterra","liga":"Premier League","fundacion":1892,"presidente":"Tom Werner","entrenador":"Jürgen Klopp","valor_equipo_millones":980.75,"activo":true} ::1
+10/04/2024 21:18:44 PUT /equipos/3 {} {"id":3,"nombre":"liverpool","pais":"Inglaterra","liga":"Premier League","fundacion":1892,"presidente":"Tom Werner","entrenador":"Jürgen Klopp","valor_equipo_millones":980.75,"activo":true} ::1
+10/04/2024 21:19:12 GET /equipos/5 {} {"name":"Add your name in the body"} ::1
+10/04/2024 21:19:50 PUT /equipos/5 {} {"id":3,"nombre":"liverpool","pais":"Inglaterra","liga":"Premier League","fundacion":1892,"presidente":"Tom Werner","entrenador":"Jürgen Klopp","valor_equipo_millones":980.75,"activo":true} ::1
+10/04/2024 21:20:04 GET /equipos/5 {} {"name":"Add your name in the body"} ::1
+10/04/2024 21:20:33 PUT /equipos/5 {} {"id":3,"nombre":"liverpool","pais":"Inglaterra","liga":"Premier League","fundacion":1892,"presidente":"Tom Werner","entrenador":"Jürgen Klopp","valor_equipo_millones":980.75,"activo":true} ::1
+10/04/2024 21:21:19 PUT /equipos/3 {} {"id":3,"nombre":"","pais":"Inglaterra","liga":"Premier League","fundacion":1892,"presidente":"Tom Werner","entrenador":"Jürgen Klopp","valor_equipo_millones":980.75,"activo":true} ::1
+10/04/2024 21:21:27 PUT /equipos/3 {} {"id":3,"nombre":"liverpool","pais":"Inglaterra","liga":"Premier League","fundacion":1892,"presidente":"Tom Werner","entrenador":"Jürgen Klopp","valor_equipo_millones":980.75,"activo":true} ::1
+10/04/2024 21:21:45 POST /equipos/ {} {"id":3,"nombre":"liverpool","pais":"Inglaterra","liga":"Premier League","fundacion":1892,"presidente":"Tom Werner","entrenador":"Jürgen Klopp","valor_equipo_millones":980.75,"activo":true} ::1
+10/04/2024 21:22:02 GET /equipos/7 {} {"name":"Add your name in the body"} ::1
+10/04/2024 21:22:09 DELETE /equipos/7 {} {} ::1
+10/04/2024 21:22:15 GET /equipos {} {} ::1
+10/04/2024 21:22:30 DELETE /equipos/6 {} {} ::1
+10/04/2024 21:22:36 GET /equipos {} {} ::1
+10/04/2024 21:22:48 DELETE /equipos/3 {} {} ::1
+10/04/2024 21:22:53 GET /equipos {} {} ::1
+10/04/2024 21:35:09 PUT /equipos/3 {} {"id":3,"nombre":"","pais":"Inglaterra","liga":"Premier League","fundacion":1892,"presidente":"Tom Werner","entrenador":"Jürgen Klopp","valor_equipo_millones":980.75,"activo":true} ::1
+10/04/2024 21:35:32 PUT /equipos/3 {} {"id":3,"nombre":"liverpool","pais":"Inglaterra","liga":"Premier League","fundacion":1892,"presidente":"Tom Werner","entrenador":"Jürgen Klopp","valor_equipo_millones":980.75,"activo":true} ::1
+10/04/2024 21:35:43 POST /equipos/ {} {"id":3,"nombre":"","pais":"Inglaterra","liga":"Premier League","fundacion":1892,"presidente":"Tom Werner","entrenador":"Jürgen Klopp","valor_equipo_millones":980.75,"activo":true} ::1
+10/04/2024 21:35:59 GET /equipos {} {} ::1
+10/04/2024 21:36:46 POST /equipos/ {} {"id":3,"nombre":"123","pais":"Inglaterra","liga":"Premier League","fundacion":1892,"presidente":"Tom Werner","entrenador":"Jürgen Klopp","valor_equipo_millones":980.75,"activo":true} ::1
+10/04/2024 21:37:35 PUT /equipos/1 {} {"id":1,"nombre":"142","pais":"Inglaterra","liga":"Premier League","fundacion":1892,"presidente":"Tom Werner","entrenador":"Jürgen Klopp","valor_equipo_millones":980.75,"activo":true} ::1
+10/04/2024 21:38:00 PUT /equipos/1 {} {"id":1,"nombre":"142","pais":"Inglaterra","liga":"Premier League","fundacion":1892,"presidente":"Tom Werner","entrenador":"Jürgen Klopp","valor_equipo_millones":980.75,"activo":true} ::1
+10/04/2024 21:41:27 PUT /equipos/4 {} {"id":1,"nombre":"142","pais":"Inglaterra","liga":"Premier League","fundacion":1892,"presidente":"Tom Werner","entrenador":"Jürgen Klopp","valor_equipo_millones":980.75,"activo":true} ::1
+10/04/2024 21:41:40 PUT /equipos/4 {} {"id":1,"nombre":"142","pais":"Inglaterra","liga":"Premier League","fundacion":1892,"presidente":"Tom Werner","entrenador":"Jürgen Klopp","valor_equipo_millones":980.75,"activo":true} ::1
+10/04/2024 21:41:44 PUT /equipos/4 {} {"id":1,"nombre":"142","pais":"Inglaterra","liga":"Premier League","fundacion":1892,"presidente":"Tom Werner","entrenador":"Jürgen Klopp","valor_equipo_millones":980.75,"activo":true} ::1
+10/04/2024 21:41:52 PUT /equipos/3 {} {"id":1,"nombre":"142","pais":"Inglaterra","liga":"Premier League","fundacion":1892,"presidente":"Tom Werner","entrenador":"Jürgen Klopp","valor_equipo_millones":980.75,"activo":true} ::1
+10/04/2024 21:42:05 PUT /equipos/1 {} {"id":1,"nombre":"142","pais":"Inglaterra","liga":"Premier League","fundacion":1892,"presidente":"Tom Werner","entrenador":"Jürgen Klopp","valor_equipo_millones":980.75,"activo":true} ::1
+10/04/2024 21:43:47 PUT /equipos/1 {} {"id":1,"nombre":"142","pais":"Inglaterra","liga":"Premier League","fundacion":1892,"presidente":"Tom Werner","entrenador":"Jürgen Klopp","valor_equipo_millones":980.75,"activo":true} ::1
+10/04/2024 21:43:57 PUT /equipos/4 {} {"id":1,"nombre":"142","pais":"Inglaterra","liga":"Premier League","fundacion":1892,"presidente":"Tom Werner","entrenador":"Jürgen Klopp","valor_equipo_millones":980.75,"activo":true} ::1
+10/04/2024 21:44:03 PUT /equipos/1 {} {"id":1,"nombre":"142","pais":"Inglaterra","liga":"Premier League","fundacion":1892,"presidente":"Tom Werner","entrenador":"Jürgen Klopp","valor_equipo_millones":980.75,"activo":true} ::1
+10/04/2024 21:44:14 GET /equipos {} {} ::1
+10/04/2024 21:44:41 PUT /equipos/1 {} {"id":1,"nombre":"Liverpool","pais":"Inglaterra","liga":"Premier League","fundacion":1892,"presidente":"Tom Werner","entrenador":"Jürgen Klopp","valor_equipo_millones":980.75,"activo":true} ::1
+10/04/2024 21:44:48 GET /equipos {} {} ::1
+10/04/2024 21:46:48 PUT /equipos/4 {} {"id":1,"nombre":"142","pais":"Inglaterra","liga":"Premier League","fundacion":1892,"presidente":"Tom Werner","entrenador":"Jürgen Klopp","valor_equipo_millones":980.75,"activo":true} ::1
+10/04/2024 21:46:55 PUT /equipos/1 {} {"id":1,"nombre":"142","pais":"Inglaterra","liga":"Premier League","fundacion":1892,"presidente":"Tom Werner","entrenador":"Jürgen Klopp","valor_equipo_millones":980.75,"activo":true} ::1
+10/04/2024 21:47:19 PUT /equipos/2 {} {"id":1,"nombre":"142","pais":"Inglaterra","liga":"Premier League","fundacion":1892,"presidente":"Tom Werner","entrenador":"Jürgen Klopp","valor_equipo_millones":980.75,"activo":true} ::1
+10/04/2024 21:47:28 PUT /equipos/ {} {"id":1,"nombre":"142","pais":"Inglaterra","liga":"Premier League","fundacion":1892,"presidente":"Tom Werner","entrenador":"Jürgen Klopp","valor_equipo_millones":980.75,"activo":true} ::1
